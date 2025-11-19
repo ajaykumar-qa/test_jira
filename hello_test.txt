@@ -1,1 +1,5 @@
 This is a test commit for SPRIN-56
+
+Second line for SPRIN-56 on branch
+
+Third line for SPRIN-56 multiple commits test
