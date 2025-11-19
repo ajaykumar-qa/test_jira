@@ -7,3 +7,5 @@ Third line for SPRIN-56 multiple commits test
 Fourth line for SPRIN-56 multiple commits test
 
 Fifth line for SPRIN-56 multiple commits test
+
+Sixth line for SPRIN-56 multiple commits test
